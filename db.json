@@ -1,0 +1,23 @@
+{
+    "pools": [{
+        "address": "0x17210f1c29bc14659f62ca4afe237ee384ea6a3d",
+        "token0": "0x53bfbe6eac6f3439ee58cf2e8a2f303f5885e089",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "reserve0": "0x24241b8a5ff3adfc917b9d6f67",
+        "reserve1": "0x2d43e633f0408",
+        "router_fee": "0x26f2",
+        "fees0": "0x0",
+        "fees1": "0x0"
+    },
+    {
+        "address": "0xea7f7bdc13d65d0b2be40670cea045a7c16ea879",
+        "token0": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+        "token1": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "reserve0": "0x1e3b9c897d7e58785",
+        "reserve1": "0x1c911a8e3be8c687",
+        "router_fee": "0x26f2",
+        "fees0": "0x0",
+        "fees1": "0x0"
+
+        ], "block": "0x107e518"
+    }
